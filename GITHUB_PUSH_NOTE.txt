@@ -1,0 +1,4 @@
+Repo: clickbank-affiliate
+Status: BUILT (local git initialized, files ready)
+Push to GitHub: requires auth (not provided — refused in prior session)
+Content: site/index.html with tracked links, no identity
