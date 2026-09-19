@@ -1,0 +1,8 @@
+Repo: clickbank-aff
+URL: https://github.com/upratapsinghshekhawat-code/clickbank-aff.git
+File: site/index.html = 413B (verified)
+Push exit: 0
+Output (real): branch 'main' set up to track 'origin/main'.
+To https://github.com/upratapsinghshekhawat-code/clickbank-aff.git
+ * [new branch]      main -> main
+
